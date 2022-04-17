@@ -1,7 +1,8 @@
 package main
 
 import (
-	"Users/jose/go-learn/src/mypackage"
+	"go-basic/src/mypackage"
+
 	"fmt"
 )
 
